@@ -1,1 +1,1 @@
-Let us create a web application contins login , register, dashboard modules.
+Let us create a web application contins login , register, dashboard modules and following modules too.
